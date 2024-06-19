@@ -58,12 +58,12 @@ img{
   color: #fff;
 }
 .box.x {
-  background-color: rgba(255, 0, 0, 0.2);
-  color: rgb(233, 46, 83);
+  background-color: rgba(0, 105, 154, 0.2);
+  color: #C3C7F3;
 }
 .box.o {
-  background-color: rgba(0, 255, 0, 0.2);
-  color: green;
+  background-color:  rgba(0, 255, 0, 0.2);
+  color: rgb(18, 175, 4);
 }
 
 #reset-btn {
