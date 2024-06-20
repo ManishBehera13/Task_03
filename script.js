@@ -72,7 +72,7 @@ let boxes = document.querySelectorAll(".box");
       };
 
       const showWinner = (winner) => {
-        msg.innerText = `Congratulations , Winner is Team : ${winner}`;
+        msg.innerText = `Congratulations , Winner is Player : ${winner}`;
         congImg.classList.remove("hide"); 
         msgContainer.classList.remove("hide");
         disableBoxes();
